@@ -1,6 +1,6 @@
 # Sportopias — AI-Powered Sports Journalism Platform
 
-**Live:** [sportopias.com](https://sportopias.com)
+**Live:** [bears-reporter.vercel.app](https://bears-reporter.vercel.app)
 
 A full-stack sports platform combining automated AI journalism, an interactive NFL GM simulator, and a 2D football practice game — built with Next.js 16, React 19, and TypeScript.
 
@@ -98,4 +98,4 @@ practice/               # 2D practice game
 
 ---
 
-*Source code is in a private repository. Visit [sportopias.com](https://sportopias.com) to see the live site.*
+*Source code is in a private repository. Visit [bears-reporter.vercel.app](https://bears-reporter.vercel.app) to see the live site.*
