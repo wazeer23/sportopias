@@ -51,14 +51,6 @@ A custom-built 2D football practice game with force-based physics, where you con
 
 ---
 
-## Responsive Design
-
-<p align="center">
-  <img src="screenshots/mobile.png" alt="Mobile responsive view" width="300" />
-</p>
-
----
-
 ## Technical Highlights
 
 | Area | Details |
